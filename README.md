@@ -1,6 +1,6 @@
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
 
-## Aim:
+## Aim: 
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
 ## ALGORITHM:
@@ -115,4 +115,3 @@ int main() {
 
 ## Result:
 The program is executed successfully
-
